@@ -1,0 +1,17 @@
+.led--banner {
+  background-image: url("images/led.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 20vw;
+  width: 100%;
+}
+
+h1 {
+  color: white;
+  padding-top: 105px;
+}
+
+.led--form {
+  padding-top: 100px;
+}
